@@ -1,0 +1,23 @@
+.myButton{
+    background-color: hsl(352.2, 48.9%, 73.1%);
+    border-radius: 6px;
+    border: 1px solid #ffffff;
+    display: inline-block;
+    cursor: pointer;
+    color: hsl(000, 0%, 33%);
+    font-family: "Montserrat";
+    font-size: 17px;
+    padding: 16px 31px;
+    text-decoration: none;
+    transition: 1s;
+    align-items: center;
+}
+
+.myButton:hover{
+    transform: scale(1.2);
+
+}
+
+.myButton:active{
+
+}
